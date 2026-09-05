@@ -1,0 +1,8 @@
+echo "This is the first test."
+echo "User: $USER"
+echo "Uptime: $(uptime)"
+echo "Kernel: $(uname -r)"
+echo "Hostname: $(hostname)"
+echo "Directory: $(pwd)"
+echo "Disk usage: $(df -h)"
+echo "RAM usage: $(free -h)"
