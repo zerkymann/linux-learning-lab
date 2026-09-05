@@ -60,3 +60,9 @@ flytta dit. Men befinner jag mig inte i närheten av detta dir, så kan jag beh�
 Tilde "~" och mer fullständiga söknamn.
 
 
+LÖRDAG 5/9/26
+
+Övningar med nano och bash/scripts. Jag förstod först inte varför ./hello.sh gav Permission denied. Problemet var att filen saknade execute-permission. Efter chmod +x hello.sh kunde scriptet köras.
+Lärt mig fler kommandon i min Linux-resa, bl. a.
+
+./ (som i princip betyder kör denna fil i denna sökväg)
